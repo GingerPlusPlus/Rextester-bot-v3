@@ -3,7 +3,7 @@
   "version": "3.0.0-alpha3",
   "description": "Telegram bot for executing snippets of code.",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "ramda": "^0.27.0",
     "telegraf": "^3.38.0",
     "xregexp": "^4.3.0"
